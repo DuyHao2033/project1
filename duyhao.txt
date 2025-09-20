@@ -1,3 +1,5 @@
+1.tạo tài khoản tự lên git hub
+
 2. Git version:
   $ git --v
 Kiểm tra phiên bản của Git.
